@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ice-maker-lab.pages.dev/sitemap-index.xml
